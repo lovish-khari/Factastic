@@ -30,7 +30,7 @@
     }
     factCheckBox.innerHTML = `
       <div class="fact-check-header">
-        <h2>Fact Checker</h2>
+        <h2>Factastic</h2>
         <button id="close-fact-check">×</button>
       </div>
       <p>Loading... This may take a few moments.</p>
@@ -63,7 +63,7 @@
     console.log('Truth color:', truthColor);
     factCheckBox.innerHTML = `
       <div class="fact-check-header">
-        <h2>Fact Checker</h2>
+        <h2>Factastic</h2>
         <button id="close-fact-check">×</button>
       </div>
       <h3 id="truth-percentage">Truth Percentage: <span style="color: ${truthColor} !important;">${result.truthPercentage}</span></h3>
