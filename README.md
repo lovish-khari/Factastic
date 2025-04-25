@@ -1,8 +1,8 @@
-# Fact Checker Chrome Extension for Perplexity Pro Users
+# Fact Checker Chrome Extension 
 
 ## Overview
 
-This Chrome extension allows Perplexity Pro users to fact-check any text on the web using Perplexity's API. It provides a quick and seamless way to verify information without leaving the current webpage.
+This Chrome extension allows users to fact-check any text on the web using Perplexity's API. It provides a quick and seamless way to verify information without leaving the current webpage.
 
 ## Key Features
 
@@ -12,26 +12,12 @@ This Chrome extension allows Perplexity Pro users to fact-check any text on the 
 - 🌐 See the statement in a broader context
 - 📚 Access sources for further reading
 
-## Installation
-
-1. Download the extension from https://chromewebstore.google.com/detail/fact-checker/olfaipihfeomkedngnkkmappbojmlmml
-2. Click on the extension icon in your Chrome toolbar
-3. Enter your Perplexity API key in the extension settings
 
 ## How to Use
 
 1. Select / Highlight any text on a webpage
 2. Right-click and select "Fact check with AI"
 3. View the results in a pop-up window
-
-
-## Credit Usage
-
-This extension uses the Perplexity API, which comes with a $5 monthly credit for Pro users. Here's what you need to know:
-
-- Your $5 credit refreshes each month with your Perplexity Pro subscription.
-- The extension uses the llama-3-8b-instruct model, one of the more cost-effective options.
-- The tool is designed to use tokens efficiently, allowing for plenty of monthly fact checks.
 
 Tips to maximize your credit:
 - Focus on shorter, specific statements for the most efficient use.
@@ -59,11 +45,9 @@ This project is licensed under the MIT License
 
 ## Feedback
 
-As this is my first Chrome extension, I'd love to hear your thoughts, suggestions, or any bugs you encounter. Please open an issue or submit a pull request.
+I'd love to hear your thoughts, suggestions, or any bugs you encounter. Please open an issue or submit a pull request.
 
 ## Future Plans
-
-- Support for other browsers (Firefox, Safari, etc.)
 - Enhanced UI/UX
 - Additional fact-checking features
 
