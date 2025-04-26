@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Chrome extension allows users to fact-check any text on the web using Perplexity's API. It provides a quick and seamless way to verify information without leaving the current webpage.
+This Chrome extension allows users to fact-check any text on the web using any ai model API. It provides a quick and seamless way to verify information without leaving the current webpage.
 
 ## Key Features
 
